@@ -5,3 +5,8 @@ Description: 3D printable box for the Meraki Sparky wifi PCB
 If you have a Meraki Sparky wifi PCB, you could use this to 3D print a box.
 
 As of 01.08.2014, the cover is just a first pass.
+
+
+Worked on as part of the sudomesh project: 
+* https://peoplesopen.net/
+* https://sudoroom.org/wiki/Mesh
