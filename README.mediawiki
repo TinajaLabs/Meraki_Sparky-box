@@ -1,9 +1,7 @@
-Meraki_Sparky-box
-=================
+== Meraki_Sparky-box ==
 
-3D printable box for the Meraki Sparky wifi PCB
+Description: 3D printable box for the Meraki Sparky wifi PCB
 
 If you have a Meraki Sparky wifi PCB, you could use this to 3D print a box.
 
 As of 01.08.2014, the cover is just a first pass.
-
